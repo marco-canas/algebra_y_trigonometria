@@ -1,4 +1,4 @@
-# Aqú voy a construir una función que estime la altura de un pararayos utilizando la línea visual
+# Aquí voy a construir una función que estime la altura de un pararayos utilizando la línea visual
 def medir_altura_visual(altura_persona, dpa, dap, altura_arbol):
     from sympy import * 
     altura_persona, altura_arbol, dpa, dap, h, x = var("altura_persona, altura_arbol, dpa, dap, h, x ") 
@@ -9,4 +9,5 @@ def medir_altura_visual(altura_persona, dpa, dap, altura_arbol):
 
 
 if __name__=='__main__':
+    medir_altura_visual(altura_persona, dpa, dap, altura_arbol)
         
