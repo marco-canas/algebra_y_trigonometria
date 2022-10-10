@@ -10,5 +10,5 @@ def medir_altura_visual(altura_persona, dpa, dap, altura_arbol):
 
 
 if __name__=='__main__':
-    medir_altura_visual(altura_persona, dpa, dap, altura_arbol)
+    pass
         
