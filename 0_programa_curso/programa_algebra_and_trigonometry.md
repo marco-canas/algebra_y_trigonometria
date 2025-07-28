@@ -135,4 +135,9 @@ Aprobado en Acta N° 215 del 15/01/2025.
 **Documento firmado digitalmente el 31/07/2025.**  
 
 ---  
-Este programa combina rigor académico con innovación pedagógica, alineado con los estándares de la Universidad de Antioquia y las demandas del siglo XXI.
+Este programa combina rigor académico con innovación pedagógica, alineado con los estándares de la Universidad de Antioquia y las demandas del siglo XXI.  
+
+# Horario del curso  
+
+Miercoles y Jueves de 9 a 11 de la mañana.   
+
