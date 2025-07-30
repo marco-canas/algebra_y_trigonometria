@@ -1,10 +1,11 @@
 # Prompt para el diseño del curso a través de DeepSeek  
 
-Buenos días, DeepSeek. Te pido, por favor, me diseñes un programa de curso de "Álgebra y trigonometría" de acuerdo a los lineamiento del archivo en PDF que te adjunto, de nombre, "0303001_algebra_trigonometry.pdf" y siguiendo la estructura dada por el archivo .docx de nombre: "formato_para_programa_cursos.docx" pero agregándole al curso que utilizaremos los enfoques de enseñanza de aula invertida (flipped classroom), STEAMS, de Aprendizaje Basado en Problemas y Proyectos (ABPP) y de Teoría de Registros de Representación (TRRS) de Raymond Duval y formaremos utilizando los recursos de de cuadernos Jupyter, lenguaje Python, lenguaje Latex e inglés para comunicación cotidiana y científica para fomentar la internacionalización del curso.
+Buenos días, DeepSeek. Te pido, por favor, me diseñes un programa de curso de "Álgebra y trigonometría" de acuerdo a los lineamientos del archivo en PDF que te adjunto, de nombre, "0303001_algebra_trigonometry.pdf" y siguiendo la estructura dada por el archivo .docx de nombre: "formato_para_programa_cursos.docx" pero agregándole al curso que utilizaremos los enfoques de enseñanza de aula invertida (flipped classroom), STEAMS, de Aprendizaje Basado en Problemas y Proyectos (ABPP) y de Teoría de Registros de Representación (TRRS) de Raymond Duval y formaremos utilizando los recursos de de cuadernos Jupyter, lenguaje Python, lenguaje Latex e inglés para comunicación cotidiana y científica para fomentar la internacionalización del curso.
 
 
 
-**PROGRAMA OFICIAL DE CURSO**  
+**PROGRAMA OFICIAL DE CURSO. 
+[Video de apoyo a la presentación del progra,a del curso](https://www.youtube.com/watch?v=kahpxoGK5V4)**  
 **(Pregrado y Posgrado)**  
 
 **UNIVERSIDAD DE ANTIOQUIA**  
@@ -46,7 +47,7 @@ El curso fortalece el pensamiento lógico-matemático, abstracto y computacional
   - Comunicar resultados científicos en inglés y LaTeX.  
   - Aplicar la TRRS para interpretar múltiples representaciones (simbólica, gráfica, numérica).  
 - **Enfoques:**  
-  - **Aula Invertida:** Videos y lecturas previas a clases.  
+  - **Aula Invertida:** [Videos](https://www.youtube.com/watch?v=hVqvDjo7d0g&list=PLbk60veMSVKs8Sg9UBxUxqrOmM2s2l6uS) y [lecturas previas a clases](https://github.com/marco-canas/algebra_y_trigonometria).  
   - **ABPP:** Proyectos reales (ej: modelar crecimiento poblacional).  
   - **STEAMS:** Conexiones con arte (geometría fractal) y sociedad (análisis de datos).  
 
@@ -57,26 +58,24 @@ El curso fortalece el pensamiento lógico-matemático, abstracto y computacional
 - **Internacionalización:** Bibliografía en inglés, comunicación científica bilingüe.  
 - **Interculturalidad:** Discusión de contribuciones matemáticas globales (ej: algoritmos árabes, trigonometría india).  
 
----
 
 ### **5. CONOCIMIENTOS Y/O SABERES**  
 **Unidad 1: Fundamentos con Python**  
 - Números reales, expresiones algebraicas (SymPy).  
 - Visualización con Matplotlib (gráficas de funciones).  
 
-**Unidad 2: Funciones y ABP**  
-- Modelado de problemas reales (ej: epidemias con funciones exponenciales).  
+**Unidad 2: Funciones y ABPP**  
+- Modelado de problemas reales (Funciones polinómicas, funciones racionales, ej: epidemias con funciones exponenciales y logaritmicas ). fracciones parciales.  
 - Proyecto: Optimización de recursos usando Python.  
 
 **Unidad 3: Trigonometría y STEAMS**  
 - Aplicaciones en ingeniería (puentes) y arte (ondas sonoras).  
 - Laboratorio: Simulación de movimientos armónicos.  
 
-**Unidad 4: Integración con TRRS**  
+**Unidad 4: Sistemas de Ecuaciones, inecuaciones. Integración con TRRS**  
 - Representación múltiple de polinomios (simbólico, gráfico, tabular).  
 - Proyecto final: Informe en LaTeX y presentación en inglés.  
 
----
 
 ### **6. METODOLOGÍA**  
 - **Estrategias:**  
