@@ -65,7 +65,7 @@ El curso fortalece el pensamiento lógico-matemático, abstracto y computacional
 - Visualización con Matplotlib (gráficas de funciones).  
 
 **Unidad 2: Funciones y ABPP**  
-- Modelado de problemas reales (Funciones polinómicas, funciones racionales, ej: epidemias con funciones exponenciales y logaritmicas ). fracciones parciales.  
+- Modelado de problemas reales: Progresiones aritméticas `(np.arange()`, `np.linspace()`) (Funciones polinómicas, funciones racionales, ej: epidemias con funciones exponenciales y logaritmicas ). fracciones parciales.  
 - Proyecto: Optimización de recursos usando Python.  
 
 **Unidad 3: Trigonometría y STEAMS**  
