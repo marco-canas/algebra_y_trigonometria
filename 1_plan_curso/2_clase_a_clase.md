@@ -1,6 +1,6 @@
 # Prompt para el diseño de 'clase a clase' para el curso de algebra_and_geometry  
 
-dame el plan de desarrollo de los contenidos del curso de álgebra y trigonometría en función de las fechas de clase. Teniendo en cuenta que el curso empieza el martes 5 de agosto de 2025. Que el horario de clases es de Martes y miércoles de 9 a 11 de la mañana y de que el curso es de 64 horas de las cuales 8 se deben de destinar para la realización de cuatro parciales, uno por unidad. Siendo que el curso tiene 4 unidades y que deben de destinarse 3 horas de las restantes 56 horas a la realización de 6 quices, cada uno de media hora y que se deben de distribuir a lo largo del desarrollo de las 4 unidades temáticas del curso. El programa del curso es el que te adjunto.  
+Dame, por favor, el plan de desarrollo de los contenidos del curso de álgebra y trigonometría en función de las fechas de clase. Teniendo en cuenta que el curso empieza el martes 5 de agosto de 2025. Que el horario de clases es de Martes y miércoles de 9 a 11 de la mañana y de que el curso es de 64 horas de las cuales 8 se deben de destinar para la realización de cuatro parciales, uno por unidad. Siendo que el curso tiene 4 unidades y que deben de destinarse 3 horas de las restantes 56 horas a la realización de 6 quices, cada uno de media hora y que se deben de distribuir a lo largo del desarrollo de las 4 unidades temáticas del curso. El programa del curso es el que te adjunto.  
 
 
 
