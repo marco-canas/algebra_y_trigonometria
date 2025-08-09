@@ -174,8 +174,7 @@ La hipótesis de la investigación es: ### **Hipótesis de Investigación Acció
 - **2026-2:** Colaboración con empresas locales para casos de estudio reales.  
 
 **Nota:** Este programa es flexible y se ajustará según los hallazgos de cada ciclo IAE.  
-
----  
+  
 
 
 
