@@ -36,9 +36,9 @@ Preguntas de respuesta abierta (resolución y justificación detallada), donde e
 
 *Justificación esperada:* Indicar si cada número es entero, racional o irracional, y usar definiciones como: “un número racional es aquel que puede expresarse como $\frac{a}{b}$ con $a, b$ enteros y $b \neq 0$”; luego, para irracional, referirse a la imposibilidad de representarse así ([Studocu][2]).
 
-**2. (3 pts)** Explica por qué los números reales son cerrados bajo adición y multiplicación. Usando esta propiedad, muéstralo con ejemplos numéricos.
+**2. (3 pts)** Explica qué significa que los números reales son cerrados bajo adición y multiplicación. Muestra que los números irracionales no son cerrados bajo suma ni bajo multiplicación, muéstralo con ejemplos numéricos y justifica claramente.
 
-*Justificación esperada:* Citar la propiedad de cierre, y realizar ejemplos como la suma de un racional con un irracional es real, o el producto de irracionales. Apoyarse en la exposición del libro ([Studocu][2]).
+*Justificación esperada:* Citar la propiedad de cierre, y realizar ejemplos como la suma de un racional con un irracional es real, o el producto de irracionales.   
 
 ---
 
