@@ -1,0 +1,114 @@
+
+
+
+
+Aquí tienes un **diseño de quiz** ajustado a tu solicitud, tomando los temas 1.1 a 1.4 del *Swokowski, 13ª edición*, y siguiendo el plan de curso que compartiste en GitHub.
+Cada pregunta incluye explícitamente la exigencia de **justificar los procedimientos utilizando las definiciones y propiedades de los números reales** tal como están expuestas en el libro.
+
+---
+
+## **Quiz – Fundamentos de Álgebra**
+
+**Texto guía:** *Álgebra y Trigonometría con Geometría Analítica*, Swokowski, Cole – 13ª ed.
+**Temas:**
+
+* 1.1 Números reales
+* 1.2 Exponentes y radicales
+* 1.3 Expresiones algebraicas
+* 1.4 Expresiones fraccionarias
+
+**Duración:** 45 minutos
+**Puntaje total:** 20 puntos
+**Tipo:** Preguntas de desarrollo con justificación teórica
+
+---
+
+### **Pregunta 1 — Números reales (5 puntos)**
+
+a) Clasifique los siguientes números como naturales, enteros, racionales, irracionales o reales:
+
+$$
+-7,\quad \frac{22}{7},\quad \sqrt{3},\quad 0.4\overline{5}
+$$
+
+b) Demuestre que el conjunto de los números reales es cerrado bajo la multiplicación usando dos ejemplos, uno con números racionales y otro con irracionales.
+
+**Instrucción de justificación:**
+
+* Cite las definiciones formales de número racional e irracional del texto.
+* Mencione la **propiedad de cierre** para los reales y explique cómo se aplica en sus ejemplos.
+
+---
+
+### **Pregunta 2 — Exponentes y radicales (5 puntos)**
+
+a) Simplifique:
+
+$$
+\sqrt{48} - 2\sqrt{12}
+$$
+
+b) Reescriba $x^{-\frac{5}{3}}y^{\frac{1}{2}}$ usando solamente exponentes positivos y radicales.
+
+**Instrucción de justificación:**
+
+* Indique y aplique las **propiedades de radicales** $\sqrt{ab} = \sqrt{a} \cdot \sqrt{b}$ y de **exponentes** $a^{-m} = \frac{1}{a^m}$.
+* Explique cómo las leyes de los exponentes derivan de las propiedades de los números reales según Swokowski.
+
+---
+
+### **Pregunta 3 — Expresiones algebraicas (5 puntos)**
+
+a) Expanda y simplifique:
+
+$$
+(3x - 2)^2
+$$
+
+b) Simplifique:
+
+$$
+\frac{4x^3 - 8x^2}{4x}
+$$
+
+**Instrucción de justificación:**
+
+* Para el apartado (a), fundamente el uso de la **propiedad distributiva** y la definición de producto notable $(a-b)^2$.
+* Para el apartado (b), explique la factorización y la cancelación de factores usando la **propiedad de cociente de potencias**.
+* Indique restricciones sobre $x$ basadas en la definición de división en los reales.
+
+---
+
+### **Pregunta 4 — Expresiones fraccionarias (5 puntos)**
+
+a) Simplifique completamente:
+
+$$
+\frac{x^2 - 4}{x^2 + 3x + 2}
+$$
+
+b) Sume y simplifique:
+
+$$
+\frac{3}{x-1} + \frac{2}{x+2}
+$$
+
+**Instrucción de justificación:**
+
+* En (a), justifique la factorización (diferencia de cuadrados y trinomio) y la cancelación de factores indicando las **condiciones de existencia** (denominadores distintos de cero).
+* En (b), explique la determinación del **mínimo común denominador** y cómo la suma de fracciones sigue de la propiedad de cierre bajo la adición en los números reales.
+
+---
+
+### **Criterios de evaluación**
+
+| Aspecto evaluado                                   | Peso |
+| -------------------------------------------------- | ---- |
+| Procedimiento correcto y ordenado                  | 40%  |
+| Justificación teórica (definiciones y propiedades) | 40%  |
+| Notación y claridad en la presentación             | 20%  |
+
+---
+
+Si quieres, puedo prepararte este mismo quiz en **formato Jupyter Notebook con SymPy** para que los estudiantes lo resuelvan usando Python, de manera que puedan verificar paso a paso y documentar las propiedades que están aplicando.
+Ese formato encajaría perfecto con tu metodología de aula invertida y ABP.
