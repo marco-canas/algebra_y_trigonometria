@@ -1,11 +1,11 @@
 # Prompt para el diseño de quices 
 
-Dame un diseño de un quiz para evaluar los temas: 
+Dame un diseño de un quiz para evaluar, en cuatro ítem, los temas: 
    1.1 Números reales,  
    1.2 Exponentes y radicales,  
    1.3 Expresiones algebraicas. 
    1.4 Expresiones Fraccionarias. 
-del texto de "Álgebra y trigonometría de Swokowski" treceava edición que se puede descargar gratis de: https://archive.org/details/algebra-y-trigonometria-con-geometria-analitica-13va-edicion-earl-w.-swokowski/page/n3/mode/2up. Este diseño es para un curso de Álgebra y Trigonometría cuyo plan es el que está en esta url: https://github.com/marco-canas/algebra_y_trigonometria/blob/main/1_plan_curso/1_programa_algebra_and_trigonometry.md. Pero pide en cada uno de los cuatro puntos del quiz, el que el estudiante justifique sus procedimientos utilizando las definiciones y propiedades de los números reales dada por Swokowski.   
+del texto de "Álgebra y trigonometría de Swokowski" treceava edición que se puede descargar gratis de: https://archive.org/details/algebra-y-trigonometria-con-geometria-analitica-13va-edicion-earl-w.-swokowski/page/n3/mode/2up. Este diseño es para un curso de Álgebra y Trigonometría cuyo plan es el que está en esta url: https://github.com/marco-canas/algebra_y_trigonometria/blob/main/1_plan_curso/1_programa_algebra_and_trigonometry.md. Pero pide en cada uno de los cuatro puntos del quiz, el que el estudiante justifique sus procedimientos utilizando las definiciones y propiedades de los números reales dada por Swokowski. Diseña cada item de tal manera que el primer punto sea teórico de verdadero o falso con justificación, donde la justificación valga la mitad del valor de cada pregunta. Y el último de los cuatro item, evalúe a partir de un problema de aplicación dado por un enunciado verbal. Y los item 2 y 3 sean de ejercitación, donde en cada item se evaluen la mayor cantidad posible de los conocimientos en cuanto a definiciones y propiedades algebraicas de los números reales.    
 
 
 **diseño de quiz** alineado tanto con los temas 1.1, 1.2 y 1.3 del *Swokowski 13a ed.* como con el plan de curso que tenemos en GitHub.
@@ -38,6 +38,33 @@ d) $0.333\ldots$
 
 * Todo número entero es un número racional.
 * Todo número racional es un número entero.
+Aquí tienes **9 afirmaciones adicionales** para el punto teórico del quiz, siguiendo la idea de **verdadero o falso con justificación**, todas basadas en definiciones y propiedades de los números reales según Swokowski:
+
+---
+
+**1.** Todo número real tiene una raíz cuadrada que también es un número real.
+
+**2.** El conjunto de los números racionales es cerrado bajo la suma, la resta, la multiplicación y la división (excepto por cero).
+
+**3.** El valor absoluto de un número real siempre es mayor o igual que cero.
+
+**4.** El inverso aditivo de cualquier número real es siempre un número negativo.
+
+**5.** Si $a$ y $b$ son números reales positivos, entonces $\sqrt{a+b} = \sqrt{a} + \sqrt{b}$.
+
+**6.** La multiplicación de números reales es conmutativa y asociativa.
+
+**7.** El producto de dos números reales negativos siempre es un número positivo.
+
+**8.** Todo número real es un número racional o un número irracional, pero no ambos.
+
+**9.** El conjunto de los números enteros es un subconjunto de los números reales y también de los números racionales.
+
+---
+
+Si quieres, puedo **añadir estas 9 afirmaciones al archivo .docx del quiz**, colocándolas como opciones alternativas para el **Ítem 1** para que tengas un banco de preguntas teóricas. ¿Quieres que lo haga?
+
+
 
 **3. (2 pts)** Simplifique:
 
