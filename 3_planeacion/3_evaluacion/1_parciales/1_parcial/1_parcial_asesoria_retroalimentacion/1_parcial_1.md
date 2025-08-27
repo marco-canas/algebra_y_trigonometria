@@ -3,9 +3,9 @@
 Dame el diseño de parcial para evaluar las siguientes secciones del texto: https://archive.org/details/algebra-y-trigonometria-con-geometria-analitica-13va-edicion-earl-w.-swokowski:   
 
 1.1 Números reales 
-1.2 Exponentes y radicales. 
-1.3 Expresiones algebraicas.  
-1.4 Expresiones fraccionarias.  
+1.2 Exponentes y radicales: Racionalización y simplificación.  
+1.3 Expresiones algebraicas: productos notables, factorización.   
+1.4 Expresiones fraccionarias; multiplicacion, división, suma y resta de fracciones. Simplificación de fracciones algebraicas.  
 
 Pero que este diseño de parcial sea siguiendo la estructura:   
 
