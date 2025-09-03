@@ -72,7 +72,7 @@ Esta estructura refleja el equilibrio entre teoría y práctica característico 
 #### **1. Teoría y Definiciones (20 puntos)**  
 **Preguntas conceptuales y justificaciones breves**:  
 - Defina **número irracional** y dé un ejemplo. *(5 puntos)*  
-- Enuncie las **propiedades de los exponentes** para \(a^m \cdot a^n\) y \((a^m)^n\). *(5 puntos)*  
+- Enuncie las **propiedades de los exponentes** para \(a^m \cdot a^n\) y $(a^m)^n$. *(5 puntos)*  
 - Explique por qué \(\sqrt{x^2} = |x|\) y no \(\sqrt{x^2} = x\). *(5 puntos)*  
 - Justifique cuándo una expresión fraccionaria \(\frac{P(x)}{Q(x)}\) está indefinida. *(5 puntos)*  
 
