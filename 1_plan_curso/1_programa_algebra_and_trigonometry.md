@@ -60,19 +60,32 @@ El curso fortalece el pensamiento lógico-matemático, abstracto y computacional
 
 
 ### **5. CONOCIMIENTOS Y/O SABERES**  
-**Unidad 1: Fundamentos con Python**  
+**Unidad 0: Fundamentos con Python**  
 - Números reales, expresiones algebraicas (SymPy).  
-- Visualización con Matplotlib (gráficas de funciones).  
+- Visualización con Pandas, Matplotlib y IPywidgets (gráficas de funciones).  
 
-**Unidad 2: Funciones y ABPP**  
+### Fundamentos de los números reales
+**Unidad 1: Conceptos fundamentales de álgebra**
+
+### Unidad 2: Igualdades y desigualdades
+**Unidad 2: Ecuaciones y desigualdades**
+
+**Unidad 3: Funciones y sus gráficas**  
 - Modelado de problemas reales: Progresiones aritméticas `(np.arange()`, `np.linspace()`) (Funciones polinómicas, funciones racionales, ej: epidemias con funciones exponenciales y logaritmicas ). fracciones parciales.  
 - Proyecto: Optimización de recursos usando Python.  
 
-**Unidad 3: Trigonometría y STEAMS**  
+### Unidad 4: Polinomios y divisiones de polinomios. 
+**Unidad 4: Funciones polinomiales y racionales**
+
+### Unidad 5: 
+**Unidad 5: Funciones Inversas exponenciales y logaritmicas**  
+
+
+**Unidad 6: Trigonometría y STEAMS**  
 - Aplicaciones en ingeniería (puentes) y arte (ondas sonoras).  
 - Laboratorio: Simulación de movimientos armónicos.  
 
-**Unidad 4: Sistemas de Ecuaciones, inecuaciones. Integración con TRRS**  
+**Unidad 7: Sistemas de Ecuaciones, inecuaciones. Integración con TRRS**  
 - Representación múltiple de polinomios (simbólico, gráfico, tabular).  
 - Proyecto final: Informe en LaTeX y presentación en inglés.  
 
