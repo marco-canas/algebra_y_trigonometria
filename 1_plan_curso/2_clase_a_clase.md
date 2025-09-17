@@ -16,11 +16,7 @@ Dame, por favor, el plan de desarrollo de los contenidos del curso de álgebra y
 4. Capítulo 4: Funciones polinomiales y racionales. 
 5. Capítulo 5: Funciones inversas, exponenciales y logaritmicas.   
 
-
-
-
-
-¡Excelente, Marco! 🙌 Ahora sí te dejo el **cronograma completo y corregido**, donde:
+# Lo logrado hasta ahora:: 
 
 * Hasta el **16/09** se cubrieron **ecuaciones lineales y racionales**.
 * Desde el **17/09** se arranca con **ecuaciones cuadráticas** y se ajusta todo el calendario hasta terminar en **octubre 2025**.
@@ -28,7 +24,7 @@ Dame, por favor, el plan de desarrollo de los contenidos del curso de álgebra y
 
 ---
 
-# 📅 Cronograma completo del curso: Álgebra y Trigonometría (agosto–octubre 2025)
+# Cronograma completo del curso: Álgebra y Trigonometría (agosto–octubre 2025)
 
 ---
 
@@ -88,7 +84,7 @@ Dame, por favor, el plan de desarrollo de los contenidos del curso de álgebra y
 
 ---
 
-# 📊 Distribución de horas
+# Distribución de horas
 
 * **Parciales (4 × 2h):** 8 h → (20/08, 10/09, 1/10, 22/10).
 * **Quices (6 × 0.5h):** 3 h → (19/08, 3/09, 23/09, 8/10, 21/10, 29/10).
@@ -97,11 +93,9 @@ Dame, por favor, el plan de desarrollo de los contenidos del curso de álgebra y
 
 ---
 
-✅ Con este cronograma:
+## Con este cronograma:
 
 * **Hasta hoy (16/09)**: vamos en **aplicaciones de ecuaciones lineales y racionales**.
 * **Desde mañana (17/09)**: arranca **ecuaciones cuadráticas**, seguido por **números complejos y desigualdades**, y todo el resto del programa queda cubierto.
 
----
 
-¿Quieres que te lo prepare en **Excel (.xlsx)** ya organizado por **semana, tema, evaluación y horas** para que lo montes directo en tu GitHub como calendario oficial?
