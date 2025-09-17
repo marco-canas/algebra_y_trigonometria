@@ -54,13 +54,13 @@ Dame, por favor, el plan de desarrollo de los contenidos del curso de álgebra y
 | **2/09/2025**  | Ecuaciones racionales: resolución paso a paso.                | Clase + Python (SymPy). |
 | **3/09/2025**  | Problemas de aplicación de ecuaciones racionales.             | **Quiz 2 (0.5 h)**.     |
 | **9/09/2025**  | Repaso general: ecuaciones lineales y racionales.             | Taller.                 |
-| **10/09/2025** | **Parcial 2 (2h)** (Lineales y racionales).                   | Evaluación.             |
+| **10/09/2025** | **Parcial 1 (2h)** (Lineales y racionales).                   | Evaluación.             |
 | **16/09/2025** | Aplicaciones integradas de lineales y racionales.             | Taller práctico.        |
 | **17/09/2025** | Ecuaciones cuadráticas: métodos algebraicos y gráficos (2.3). | Clase + Python.         |
 | **23/09/2025** | Problemas de aplicación de cuadráticas.                       | **Quiz 3 (0.5 h)**.     |
 | **24/09/2025** | Números complejos: definición, operaciones (2.4).             | Clase + Python.         |
 | **30/09/2025** | Representación geométrica de números complejos.               | Taller práctico.        |
-| **1/10/2025**  | Desigualdades: lineales, cuadráticas (2.6, 2.7).              | **Parcial 3 (2h)**.     |
+| **1/10/2025**  | Desigualdades: lineales, cuadráticas (2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7).              | **Parcial 2 (2h)**.     |
 
 ---
 
